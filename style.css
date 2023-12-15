@@ -6,13 +6,13 @@ body {
   }
   
   header {
-    background-color: #f0f0f0;
+    background-color: #e43737;
     padding: 20px;
     text-align: center;
   }
   
   footer {
-    background-color: #f0f0f0;
+    background-color: #c32828;
     padding: 10px;
     text-align: center;
     position: fixed;
