@@ -5,3 +5,4 @@
 - [ ] Think of name
 - [ ] Create the website
 - [ ] Understand how to become an approved vendor
+- [ ] Learn about current key market players
