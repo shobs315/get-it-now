@@ -107,6 +107,20 @@ h5,
 .CTA_icon {
   margin-left: 1.2rem;
 }
+.team-images {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  margin: 0; 
+  padding: 20px;
+  gap: 20px;
+} 
+.single-team-image figcaption{
+  text-align: center;
+}
+.single-team-image a{
+  color: white;
+}
 
 .blog {
   width: 100%;
